@@ -14,8 +14,8 @@ body > .container {
     max-width: 100%
   }
 }
-
-.sidebar {
+/* Customize containerinside sidebar for default layout*/
+div.sidebar {
   margin-top: 5px;
   margin-bottom: 5px;
   margin-right: 10px;
