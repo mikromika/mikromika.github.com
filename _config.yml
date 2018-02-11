@@ -15,7 +15,7 @@ url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
+  name:           'Mikrmike'
   url:            https://twitter.com/mdo
 
 paginate:         5There are currently two themes built on PoolThere are currently two themes built on Poole:
@@ -29,11 +29,9 @@ e:
 * [Hyde](http://hyde.getpoole.com)
 * [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
 
 # Custom vars
-version:          2.1.0
+version:          0.0.1
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/mikromika/mikromika.github.com.git
