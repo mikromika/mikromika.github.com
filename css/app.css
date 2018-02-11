@@ -15,7 +15,7 @@ body > .container {
   }
 }
 /* Customize containerinside sidebar for default layout*/
-div.sidebar {
+div.sidebar defaultemplate {
   margin-top: 5px;
   margin-bottom: 5px;
   margin-right: 10px;
