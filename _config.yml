@@ -18,6 +18,11 @@ author:
   name:           'Mikromike'
   url:
 
+pages_list:
+  About: '/blog_name/about'
+
+
+
 paginate:         5
 paginate_path:       "/page:num/"
 
