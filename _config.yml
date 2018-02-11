@@ -26,8 +26,7 @@ kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
 input: GFM
 
-paginate:         5
-paginate_path:       "/page:num/"
+
 
 # Custom vars
 version:          0.0.2
