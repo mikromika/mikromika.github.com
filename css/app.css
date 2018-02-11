@@ -22,6 +22,8 @@ body > .container {
 .sidebar {
   margin-bottom: 20px;
   margin-right: 20px;
+  padding: 3px;
+  border: 1px solid #d8d8d8;
 }
 
 .social ul li {
