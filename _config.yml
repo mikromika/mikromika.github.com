@@ -17,16 +17,24 @@ baseurl:          /
 author:
   name:           'Mikromike'
   url:
+permalink: /:year-:month-:day-:title/
 
 pages_list:
-  About: '/blog_name/about'
+  About: '/about'
 
 # Jekyll 3 now only supports Kramdown for Markdown
+markdown: kramdown
+highlighter: rouge
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
 input: GFM
 
+paginate:         5
+paginate_path:       "/page:num/"
 
+# Excerpt Word Length
+# Truncates the excerpt to the specified number of words on the index page
+excerpt_length: 50
 
 # Custom vars
 version:          0.0.2
@@ -38,3 +46,34 @@ github:
 gems:
 - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+- jekyll-paginate
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "page"
+      show-avatar: true
+
+# Use tags index page and make tags on each post clickable
+link-tags: true
+
+# Exclude these files from production site
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Dockerfile
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
