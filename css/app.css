@@ -22,6 +22,14 @@ div.sidebar defaultemplate {
   padding: 3px;
   border: 1px solid #d8d8d8;
 }
+.sidebar {
+  margin-bottom: 15px;
+
+}
+
+.navbar {
+  margin-bottom: 0px;
+}
 
 .social ul li {
   text-align: center;
