@@ -14,6 +14,14 @@ title: Home
 
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
+    <li class="tags">
+    {% for tag in page.tags %}
+      <span class="label label-primary">{{ tag }}</span>
+    {% endfor %}
+    </li>
+    </ul>
+
+
     {{ post.content }}
   </article>
   {% endfor %}
