@@ -1,11 +1,11 @@
-#theme:               jekyll-theme-slate
+theme:               jekyll-theme-slate
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+
 
 # Setup
 title:            Hyde
