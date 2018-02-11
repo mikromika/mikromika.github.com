@@ -11,7 +11,7 @@ permalink:        pretty
 title:            Mikromike
 tagline:          'A Jekyll theme'
 description:      'Mikromike's homepage <a href="https://mikromika.github.io/" target="_blank">Mikromike</a>.'
-url:              http://hyde.getpoole.com
+url:              https://mikromika.github.io
 baseurl:          /
 
 author:
