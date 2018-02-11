@@ -10,13 +10,13 @@ permalink:        pretty
 # Setup
 title:            Mikromike
 tagline:          'A Jekyll theme'
-description:      'Mikromike's homepage <a href="https://mikromika.github.io/" target="_blank">Mikromike</a>.'
+description:      'Mikromikes homepage <a href="https://mikromika.github.io/" target="_blank">Mikromike</a>'
 url:              https://mikromika.github.io
 baseurl:          /
 
 author:
   name:           'Mikromike'
-  url:            https://twitter.com/mdo
+  url:
 
 paginate:         5
 
