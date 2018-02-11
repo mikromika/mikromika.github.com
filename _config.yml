@@ -15,19 +15,10 @@ url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Mikrmike'
+  name:           'Mikromike'
   url:            https://twitter.com/mdo
 
-paginate:         5There are currently two themes built on PoolThere are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-e:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+paginate:         5
 
 
 # Custom vars
