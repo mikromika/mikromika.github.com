@@ -88,10 +88,16 @@ a.user-mention {
 a.user-mention:hoover {
   color: #333;
 }
+div.post location
+{
+  padding-left: 50px;
+  margin-bottom: 20px;
+}
 
 div.post {
   margin-bottom: 20px;
 }
+
 div.post-list{
   padding-left: 35px;
   margin-bottom: 60px;
