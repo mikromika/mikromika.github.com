@@ -23,7 +23,7 @@ div.sidebar defaultemplate {
   border: 1px solid #d8d8d8;
 }
 .sidebar {
-  margin-bottom: 150px;
+  margin-bottom: 15px;
 
 }
 
@@ -79,15 +79,6 @@ h2.glyphicons::before {
   margin: 5px 0 0 0;
 }
 
-/* Blog */
-a.user-mention {
-  font-weight: bold;
-  color: #333;
-}
-
-a.user-mention:hoover {
-  color: #333;
-}
 div.post location
 {
   padding-left: 50px;
@@ -100,7 +91,7 @@ div.post {
 
 div.post-list{
   padding-left: 35px;
-  margin-bottom: 60px;
+  margin-bottom: 30px;
 }
 
 div.post olddata{
