@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div style="margin-left:15%">
-<div class="w3-container w3-dark-grey">
+<div class="w3-container w3-Blue">
   <h1>Mikromike's Page Header from MD-file</h1>
 </div>
 
