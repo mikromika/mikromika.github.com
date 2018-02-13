@@ -5,7 +5,7 @@ title: Home
 
 <div style="margin-left:15%">
 <div class="w3-container w3-dark-grey">
-  <h1>Mikromike's Page</h1>
+  <h1>Mikromike's Page Header</h1>
 </div>
 
 <div class="w3-container">
