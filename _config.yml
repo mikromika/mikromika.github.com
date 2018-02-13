@@ -30,11 +30,28 @@ paginate:         5
 paginate_path:       "/page:num/"
 
 # Custom vars
-version:          0.0.5
+version:          0.0.6
 
 github:
   repo:           https://github.com/mikromika/mikromika.github.com.git
   show_downloads: true
+
+
+defaults:
+  - scope:
+      path: "data/static"
+    values:
+      image: true
+
+
+
+
+
+
+
+
+
+
 
   # Use the following plug-ins
 gems:

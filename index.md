@@ -12,7 +12,10 @@ title: Home
 
     <div class="w3-container">
         <div class="w3-content">
-          huhuu from index-MD-file content
+        {% assign image_files = site.static_files | where: "image", true %}
+          {% for myimage in image_files %}
+            {{ myimage.path }}
+              {% endfor %}
         </div>
 
     </div>
