@@ -19,5 +19,6 @@ title: Home
         </div>
 
     </div>
+    <center> End of index-md </center>
 <hr>   
 </div>
