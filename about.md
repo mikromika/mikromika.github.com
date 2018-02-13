@@ -1,14 +1,8 @@
 ---
-layout: page
+layout: aboutme
 title: About
 permalink: /about/
 ---
 
 ## About
-<div class="w3-container">
-   <ul>
-     <li><a href="https://mikromika.github.io/">Home</a> </li>
-     <li><a href="#news">News</a></li>
-     <li><a href="#contact">Contact</a></li>
-     <li><a class="active" href="/about">About</a></li>
- </ul>
+<center> <h3> About me </h3> </center>
