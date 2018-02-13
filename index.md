@@ -4,7 +4,6 @@ title: Home
 ---
 
 <div style="margin-left:15%">
-
 <div class="w3-container w3-dark-grey">
   <h1>Mikromike's Page</h1>
 </div>
@@ -25,16 +24,11 @@ title: Home
         <span class="label label-primary">{{ tag }}</span>
       {% endfor %}
       </li>
+
       </ul>
-
-
       {{ post.content }}
     </article>
     {% endfor %}
   </div>
-
-
-
 </div>
-
 </div>
