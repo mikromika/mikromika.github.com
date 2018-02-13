@@ -34,6 +34,7 @@ version:          0.0.5
 
 github:
   repo:           https://github.com/mikromika/mikromika.github.com.git
+  show_downloads: true
 
   # Use the following plug-ins
 gems:
