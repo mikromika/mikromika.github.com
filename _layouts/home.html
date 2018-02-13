@@ -6,16 +6,17 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="css/w3.css">
+<link rel="stylesheet" href="css/syle.css">
 {% include navbar.html %}
 {% include body.html %}
 </head>
 <body>
    <div class="w3-container">
       <ul>
-        <li><a class="active" href="https://mikromika.github.io/">Home</a> </li>
+        <li><a href="https://mikromika.github.io/" {% if page.url == "/" %}class="active"{% endif %}>Home</a> </li>
         <li><a href="#news">News</a></li>
         <li><a href="#contact">Contact</a></li>
-        <li><a href="/about">About</a></li>
+        <li><a href="/about"  >About</a></li>
     </ul>
 
   </div>
