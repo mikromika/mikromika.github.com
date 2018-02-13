@@ -10,25 +10,7 @@ title: Home
 
 <div class="w3-container">
   <div class="posts">
-    {% for post in paginator.posts %}
-    <article class="post">
-      <h3 class="post-title">
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          {{ post.title }}
-        </a>
-      </h3>
-      <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-
-      <li class="tags">
-      {% for tag in page.tags %}
-        <span class="label label-primary">{{ tag }}</span>
-      {% endfor %}
-      </li>
-
-      </ul>
-      {{ post.content }}
-    </article>
-    {% endfor %}
+huhuu from index-MD-file
   </div>
 </div>
 </div>
