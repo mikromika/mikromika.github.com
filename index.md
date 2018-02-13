@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-<div style="margin-left:15%">
+<div style="margin-left:5%">
   this is container outside index.MD
 
   <div class="w3-container w3-Blue">
