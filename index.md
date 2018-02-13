@@ -9,7 +9,7 @@ title: Home
 </div>
 
 <div class="w3-container">
-  <div class="posts">
+  <div class="post">
 huhuu from index-MD-file + mycss
   </div>
 </div>
