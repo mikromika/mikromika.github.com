@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div style="margin-left:1px">
-  this is container outside index.MD
+
 
   <div class="w3-container w3-blue">
     <h1>Mikromike's Page Header from index MD-file</h1>
@@ -19,6 +19,5 @@ title: Home
         </div>
 
     </div>
-
-   this is outside container  index.MD
+<hr>   
 </div>
