@@ -7,3 +7,15 @@ div.post ul.metadata {
   padding-left: 5;
   color: rgb(153, 153, 153);
 }
+div.post ul.metadata a {
+  color: rgb(153, 153, 153);
+}
+
+div.post ul.metadata li {
+  display: inline;
+  padding-right: 10px;
+}
+div.post ul {
+  display: inline;
+  padding-right: 20px;
+}
