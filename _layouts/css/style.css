@@ -1,3 +1,9 @@
 a.active {
-  color: #ffe000;
+  color: #ffee00;
+}
+div.post ul.metadata {
+  list-style: none outside none;
+  margin-bottom: 5px;
+  padding-left: 5;
+  color: rgb(153, 153, 153);
 }
