@@ -9,10 +9,10 @@ title: Home
 </div>
 
 <div class="w3-container">
-  <div>
-huhuu from index-MD-file + mycss
+  <div class="w3-container">
+huhuu from index-MD-file
   </div>
 
 </div>
-  this is container outside 
+  this is container outside
 </div>
