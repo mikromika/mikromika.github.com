@@ -13,6 +13,7 @@ div.post ul.metadata a {
 
 div.post ul.metadata li {
   display: inline;
+  padding-left: 20px;
   padding-right: 10px;
 }
 div.post ul {
