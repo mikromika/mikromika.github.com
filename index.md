@@ -8,15 +8,13 @@ title: Home
 <div class="post">
 
     {% for post in site.posts %}
-      <a href="{{ post.url }}"> <h2>{{ post.title }}</h2> </a>
+        <a href="{{ post.url }}"> <h2>{{ post.title }}</h2> </a>
         <p>{{ post.date | date_to_string }}</p>
     {% endfor %}
 
-
-
-          {% for tag in post.tags %}
-          <span class="label label-primary">{{ tag }}</span>
-          {% endfor %}
+    {% for tag in post.tags %}
+      <span class="label label-primary">{{ tag }}</span>
+   {% endfor %}
 
 </div>
     <center> End of index-md </center>
