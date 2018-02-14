@@ -12,12 +12,12 @@ title: Home
         <p>{{ post.date | date_to_string }}</p>
     {% endfor %}
   </li>
-  <li>
+
 
           {% for tag in post.tags %}
           <span class="label label-primary">{{ tag }}</span>
           {% endfor %}
-        </li>
+
 </div>
     <center> End of index-md </center>
 <hr>   
