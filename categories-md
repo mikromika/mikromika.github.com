@@ -4,9 +4,6 @@ title: Categories List
 ---
 
 
-
-
-
 <h2>Categories</h2>
 <ul>
 {% assign categories_list = site.categories %}
