@@ -5,12 +5,14 @@ title: Categories List
 
 
 <h2><center> Categories </center></h2><hr>
-<br><br>
+<br>
 <ul>
   <li>{% assign categories_list = site.categories %}
     {% if categories_list.first[0] == null %}
       {% for category in categories_list %}
-        <li><a href="#{{ category }}">{{ category | capitalize }} ({{ site.tags[category].size }})</a></li>
+        <li><a href="#{{ category }}">{{ category | capitalize }} ({{ site.tags[category].size }})</a>
+        huhuu category list
+        </li>
         {% endfor %}
         {% else %}
         {% for category in categories_list %}
