@@ -6,6 +6,7 @@ tag: [cv, bootcamp, Security, ECSA, LPI]
 twitter: mikromike
 published: true
 author: mikromike
+category: bootcamp
 ---
 This text is for timeline
 

@@ -8,6 +8,7 @@ published: true
 author: mikromike
 location : [Finland]
 lang: eng
+category: hobby
 ---
 This tex is for timeline
 

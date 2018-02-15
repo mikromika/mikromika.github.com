@@ -8,6 +8,7 @@ published: true
 author: mikromike
 location : [Finland]
 lang: eng
+category: hobby
 ---
 Joined GitHub by Name Mikromika.
 <!--more-->
