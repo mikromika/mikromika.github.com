@@ -16,7 +16,10 @@ title: Categories List
         {% endfor %}
         {% else %}
         {% for category in categories_list %}
-        <li><a href="#{{ tag[0] }}">{{ category[0] | capitalize }} ({{ category[1].size }})</a></li>
+        <li><a href="#{{ tag[0] }}">{{ category[0] | capitalize }} ({{ category[1].size }})</a>
+
+        huhuu category list else staiment
+        </li>
         {% endfor %}
         {% endif %}
 {% assign categories_list = nil %}</li>
