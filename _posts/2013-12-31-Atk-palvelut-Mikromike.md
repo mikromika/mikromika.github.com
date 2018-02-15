@@ -6,6 +6,7 @@ tag: [cv, Technial support, PC, Windows, Telecmmunication, Security, HP, Zyxel, 
 twitter: mikromike
 published: true
 author: mikromike
+category: own business
 ---
 This text is for timeline
 
