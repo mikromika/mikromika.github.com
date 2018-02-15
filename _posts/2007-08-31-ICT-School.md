@@ -6,6 +6,7 @@ tag: [cv, ict school, telecommunication, Cisco, CCNA]
 twitter: mikromike
 published: true
 author: mikromike
+category: advanced education
 ---
 
 This text is for timeline

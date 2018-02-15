@@ -6,6 +6,7 @@ tag: [cv, Technical support, PC, Windows, Telecmmunication, Cisco, Nortel]
 twitter: mikromike
 published: true
 author: mikromike
+category: job
 ---
 This text is for timeline
 

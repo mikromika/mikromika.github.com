@@ -6,6 +6,7 @@ tag: [cv, Equant, Technical support, PC, Windows, Telecmmunication, Cisco]
 twitter: mikromike
 published: true
 author: mikromike
+category: job
 ---
 This text is for timeline
 
