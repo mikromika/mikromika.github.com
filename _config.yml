@@ -36,6 +36,21 @@ github:
   repo:           https://github.com/mikromika/mikromika.github.com.git
   show_downloads: true
 
+twitter:
+  username:            DevMikromike       # Add your Twitter handle
+  tweet_count:         false              # Show number of shares on Twitter
+  size:                normal             # Or large
+  embedded_link_color:                    # Set link color for embedded tweets
+
+  follow_count:        false              # Show number of followers
+  tweet_message:       ":title by :username :hashtags - :url" # With Tweet button Twitter add the URL last
+  tweet_link_text:     Twitter            # Configure the link text
+  tweet_link_title:    Share on Twitter   # Share link title
+  profile_link_text:   Follow :username
+  profile_link_title:  Follow :username on Twitter  # Profile link title text
+
+
+
 
 defaults:
   - scope:
@@ -44,20 +59,13 @@ defaults:
       image: true
 
 
-
-
-
-
-
-
-
-
-
   # Use the following plug-ins
 gems:
 - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 - jekyll-paginate
+- octopress-social # For Twitter
+
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
