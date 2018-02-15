@@ -6,6 +6,7 @@ tag: [cv, ict school, telecommunication, pc]
 twitter: mikromike
 published: true
 author: mikromike
+category: basic education
 ---
 
 This text is for timeline
