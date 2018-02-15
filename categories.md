@@ -11,14 +11,13 @@ title: Categories List
     {% if categories_list.first[0] == null %}
       {% for category in categories_list %}
         <li><a href="#{{ category }}">{{ category | capitalize }} ({{ site.tags[category].size }})</a>
-        huhuu category list
+
         </li>
         {% endfor %}
         {% else %}
         {% for category in categories_list %}
         <li><a href="#{{ tag[0] }}">{{ category[0] | capitalize }} ({{ category[1].size }})</a>
-
-        huhuu category list else staiment
+    
         </li>
         {% endfor %}
         {% endif %}
