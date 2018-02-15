@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Categories List
+permalink: /categories/
 ---
 
 
@@ -17,7 +18,7 @@ title: Categories List
         {% else %}
         {% for category in categories_list %}
         <li><a href="#{{ tag[0] }}">{{ category[0] | capitalize }} ({{ category[1].size }})</a>
-    
+
         </li>
         {% endfor %}
         {% endif %}
