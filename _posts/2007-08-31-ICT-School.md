@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ICT school
-date: 2007-08-31
-tag: [cv, ict school, telecommunication, Cisco, CCNA]
+date: 2007-08-30
+tag: [cv, education, telecommunication, Cisco, CCNA]
 twitter: mikromike
 published: true
 author: mikromike
