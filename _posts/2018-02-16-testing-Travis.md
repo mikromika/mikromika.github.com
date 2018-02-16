@@ -2,7 +2,8 @@
 layout: post
 title: Getting started with Travis Cl
 date: 2018-02-16
-travis : https://travis-ci.org/
+url:
+  travis : https://travis-ci.org/
   repo:
 
 ---
