@@ -14,7 +14,7 @@ title: Home
         <p>{{ post.date | date_to_string }}</p>
 
         {% for tag in post.tags %}
-          <span class="label label-primary">{{ tag }}</span>
+          <span class="label label-primary">Post has Tagged: {{ tag }}</span>
         {% endfor %}
    {% endfor %}
 
