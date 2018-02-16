@@ -8,7 +8,7 @@ url:
 
 ---
 
-Getting started with Travis Cl <a href ="post.url.travis"> https://travis-ci.org/</a>
+Getting started with Travis Cl <a href ="{{post.url.travis}}"> https://travis-ci.org/</a>
 1. make .travis.yml file <br>
   language: ruby
   rvm:
