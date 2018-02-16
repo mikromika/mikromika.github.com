@@ -2,13 +2,12 @@
 layout: post
 title: Getting started with Travis Cl
 date: 2018-02-16
-url:
-  travis : https://travis-ci.org/
+travis : https://travis-ci.org/
   repo:
 
 ---
 
-Getting started with Travis Cl [ https://travis-ci.org/](https://travis-ci.org/)
+Getting started with Travis Cl [ https://travis-ci.org/] [[post.travis]]
 1. make .travis.yml file <br>
   language: ruby
   rvm:
