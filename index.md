@@ -19,8 +19,8 @@ Post has Tagged:
    {% endfor %}
 
 </div>
-<div>
+
     <center> End of index-md </center>
 <hr>
-</div>  
+
 </div>
