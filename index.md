@@ -18,7 +18,6 @@ title: Home
         {% endfor %}
    {% endfor %}
 
-
 </div>
     <center> End of index-md </center>
 <hr>   
