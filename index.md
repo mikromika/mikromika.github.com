@@ -4,7 +4,7 @@ title: Home
 ---
 <div style="margin-left:1px">
   <div class="w3-container w3-white">
-    <h1 class="w3-text-black"><center>Mikromike's Page Header from index MD-file </center></h1>
+    <h3 class="w3-text-black"><center>Mikromike's Page Header from index MD-file </center></h3>
     <hr><br>
 
 <div class="post">
