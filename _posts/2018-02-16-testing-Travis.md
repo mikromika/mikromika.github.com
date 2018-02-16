@@ -7,7 +7,7 @@ travis : https://travis-ci.org/
 
 ---
 
-Getting started with Travis Cl [ https://travis-ci.org/] [[post.travis]]
+Getting started with Travis Cl [ https://travis-ci.org/] [[travis]]
 1. make .travis.yml file <br>
   language: ruby
   rvm:
