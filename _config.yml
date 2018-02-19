@@ -30,7 +30,7 @@ paginate:         5
 paginate_path:       "/page:num/"
 
 # Custom vars
-version:          0.2.19
+version:          0.2.19. {{site.config.version}}
 timezone: Europe/Helsinki # add your own locale timezon
 
 github:
