@@ -11,7 +11,7 @@ baseurl:          /
 
 author:
   name:           'Mikromike'
-  url:
+  url:            https://mikromika.github.io
 
 permalink: /post/:year/:month/:day/:title/
 excerpt_separator: <!--more-->
@@ -30,7 +30,7 @@ paginate:         5
 paginate_path:       "/page:num/"
 
 # Custom vars
-version:          0.0.6
+version:          0.2.19
 timezone: Europe/Helsinki # add your own locale timezon
 
 github:

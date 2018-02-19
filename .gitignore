@@ -4,3 +4,6 @@ _site/
 _config.yml
 /bin
 *.sh
+version
+status
+commit-update

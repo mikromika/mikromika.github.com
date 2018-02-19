@@ -27,3 +27,7 @@
   <script src="{{ root_url }}/javascripts/github.js" type="text/javascript"> </script>
 </section>
 {% endif %}
+
+
+[ GitHub Pages uses the following dependencies and versions: ]
+( https://pages.github.com/versions/ )
