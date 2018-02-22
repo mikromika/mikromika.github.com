@@ -30,7 +30,7 @@ paginate:         5
 paginate_path:       "/page:num/"
 
 # Custom vars
-version:          0.2.19. 
+version:          0.2.19.
 timezone: Europe/Helsinki # add your own locale timezon
 
 github:
@@ -62,11 +62,13 @@ defaults:
 
   # Use the following plug-ins
 gems:
-- jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+ # Create a sitemap using the official Jekyll sitemap gem   - jekyll-sitemap
 - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 - jekyll-paginate
 - octopress-social # For Twitter
 
+plugins:
+  - jekyll-sitemap
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
