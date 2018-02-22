@@ -17,10 +17,10 @@ Post has Tagged:
           <span class="label label-primary"> {{ tag }}</span>
         {% endfor %}
    {% endfor %}
-  
+
 </div>
 
-    <center> End of index-md </center>
+    <center> End of index-md file </center>
 <hr>
 
 </div>
