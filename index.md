@@ -8,7 +8,7 @@ title: Home
     <hr><br>
 
 <div class="post">
-  <div class="spacer">
+
       {% for post in site.posts %}
           <a href="{{ post.url }}"> <h2>{{ post.title }}</h2> </a>
           <p>{{ post.date | date_to_string }}</p>
@@ -17,7 +17,7 @@ Post has Tagged:
           <span class="label label-primary"> {{ tag }}</span>
         {% endfor %}
    {% endfor %}
-   </div>
+  
 </div>
 
     <center> End of index-md </center>
