@@ -21,3 +21,7 @@ div.post ul {
   padding-left: 20px;
   padding-right: 10px;
 }
+.spacer {
+    background-color: tomato;
+    margin: 20px 5px;
+}
