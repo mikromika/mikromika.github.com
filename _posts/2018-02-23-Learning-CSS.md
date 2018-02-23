@@ -24,8 +24,14 @@ three ways to attach CSS inside HTML
           Uses the <link> ant two attributes, rel and href
           </li>
 
-        '''        <link rel="stylesheet" href="stylesheet.css">''' HTML 5 style
-        '''      <link rel="stylesheet" type="text/css" href="stylesheet.css"> ''' XHTML style  
+        '''html        
+              <link rel="stylesheet" href="stylesheet.css">
+        '''
+         HTML 5 style
+        '''html     
+            <link rel="stylesheet" type="text/css" href="stylesheet.css">
+        '''
+          XHTML style  
 </ul>
 
 ## Inline CSS
@@ -35,7 +41,9 @@ three ways to attach CSS inside HTML
       </li>
           Inline CSS is addesd using style attribute
         <li>
-  '''   <p style="color: blue;"> This text is blue.</p>  '''
+  '''html
+     <p style="color: blue;"> This text is blue.</p>
+      '''
         </li>
         <li>
         </li>
@@ -51,14 +59,16 @@ three ways to attach CSS inside HTML
         <p> Internal CSS will overwrites external CSS, only if it's added after
         the external stylesheet. </p>
       </li>
-  '''     <head>
+  '''html
+       <head>
         <link rel="stylesheet" href="external.css">
           <style>
             p {
               color: blue;
               )
           </style>
-      </head>    '''
+      </head>
+         '''
 </ul>
 
 
@@ -77,6 +87,7 @@ three ways to attach CSS inside HTML
 <li> [ http://gs.statcounter.com ]( http://gs.statcounter.com ) </li>
 <li> [ http://caniuse.com/usage-table ]( http://caniuse.com/usage-table  ) </li>
 <li> [ https://goo.gl/gNmaVD ]( end of older IE Support  ) </li>
+<!-- <li> [  ](  ) </li>
 <li> [  ](  ) </li>
 <li> [  ](  ) </li>
 <li> [  ](  ) </li>
@@ -85,8 +96,7 @@ three ways to attach CSS inside HTML
 <li> [  ](  ) </li>
 <li> [  ](  ) </li>
 <li> [  ](  ) </li>
-<li> [  ](  ) </li>
-<li> [  ](  ) </li>
+<li> [  ](  ) </li> -->
 </ul>
 </center>
 <!--more-->
