@@ -10,7 +10,6 @@ category: Learning
 ---
 Introduction to CSS <br>
 
-
 three ways to attach CSS inside HTML 5
 
 1. ## External CSS
@@ -18,19 +17,17 @@ three ways to attach CSS inside HTML 5
   - Always referenced within the <head> inside html 5   
   - Uses the <link> ant two attributes, rel and href   
 
+  HTML 5 style <br>
 '''css
 
-              <link rel="stylesheet" href="stylesheet.css">
+<link rel="stylesheet" href="stylesheet.css">
 
 '''
-         HTML 5 style
+  XHTML style   <br>
 '''css
-
-            <link rel="stylesheet" type="text/css" href="stylesheet.css">
+<link rel="stylesheet" type="text/css" href="stylesheet.css">
 
 '''
-          XHTML style  
-</ul>
 
 2. ## Inline CSS
 <ul>  
