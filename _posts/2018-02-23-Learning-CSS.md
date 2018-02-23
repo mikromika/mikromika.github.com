@@ -9,13 +9,13 @@ author: mikromike
 category: Learning
 ---
 Introduction to CSS <br>
-[ https://travis-ci.org/ ]( https://travis-ci.org/ )
 
-three ways to attach CSS inside HTML
+
+three ways to attach CSS inside HTML 5
 
 1. External CSS
 <ul>    
-          <li>
+<li>
           A separete CSS local file with a .css file extension
           </li>
           <li>
@@ -24,7 +24,7 @@ three ways to attach CSS inside HTML
           <li>
           Uses the <link> ant two attributes, rel and href
           </li>
-
+</ul>    
 '''css
 
               <link rel="stylesheet" href="stylesheet.css">
@@ -82,7 +82,7 @@ three ways to attach CSS inside HTML
 
 
 <center> <h2> Reference link list </h2>
-
+[ https://travis-ci.org/ ]( https://travis-ci.org/ )
 
 <!--<ul>
 <li>  [ https://travis-ci.org/ ]( https://travis-ci.org/ ) </li>
