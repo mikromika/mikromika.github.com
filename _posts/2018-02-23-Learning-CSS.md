@@ -2,7 +2,7 @@
 layout: post
 title: CSS
 date: 2018-02-23
-tag: [Learning, Css, HTML5, Getting started]
+tag: [Learning, Css, Getting started]
 twitter: mikromike
 published: true
 author: mikromike
