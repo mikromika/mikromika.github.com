@@ -13,6 +13,7 @@ Introduction to CSS <br>
 
 three ways to attach CSS inside HTML
 
+1.
 ## External CSS
 <ul>    
           <li>
@@ -39,6 +40,7 @@ three ways to attach CSS inside HTML
           XHTML style  
 </ul>
 
+2.
 ## Inline CSS
 <ul>  
       <li>
@@ -57,6 +59,7 @@ three ways to attach CSS inside HTML
 
 </ul>
 
+3.
 ## Internal CSS
 <ul>
       <li>  
