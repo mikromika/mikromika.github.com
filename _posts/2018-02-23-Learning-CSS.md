@@ -14,17 +14,10 @@ Introduction to CSS <br>
 three ways to attach CSS inside HTML 5
 
 1. External CSS
-<ul>    
-<li>
-          A separete CSS local file with a .css file extension
-          </li>
-          <li>
-          Always referenced within the <head> inside html 5
-          </li>
-          <li>
-          Uses the <link> ant two attributes, rel and href
-          </li>
-</ul>    
+*** A separete CSS local file with a .css file extension
+*** Always referenced within the <head> inside html 5
+*** Uses the <link> ant two attributes, rel and href
+
 '''css
 
               <link rel="stylesheet" href="stylesheet.css">
