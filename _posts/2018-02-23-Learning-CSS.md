@@ -71,25 +71,6 @@ three ways to attach CSS inside HTML 5
 '''
 </ul>
 
-
-<center> <h2> Reference link list </h2>
-[ https://travis-ci.org/ ]( https://travis-ci.org/ )
-
-<!--<ul>
-<li>  [ https://travis-ci.org/ ]( https://travis-ci.org/ ) </li>
-
- <li> [  ](  ) </li>
-<li> [  ](  ) </li>
-<li> [  ](  ) </li>
-<li> [  ](  ) </li>
-<li> [  ](  ) </li>
-<li> [  ](  ) </li>
-<li> [  ](  ) </li>
-<li> [  ](  ) </li>
-<li> [  ](  ) </li>
-<li> [  ](  ) </li>
-</ul>-->
-</center>
 <!--more-->
 Reference links
 [ http://gs.statcounter.com ]( http://gs.statcounter.com )  <br>
