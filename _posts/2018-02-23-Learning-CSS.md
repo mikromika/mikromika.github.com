@@ -14,9 +14,9 @@ Introduction to CSS <br>
 three ways to attach CSS inside HTML 5
 
 1. External CSS
-*** A separete CSS local file with a .css file extension
-*** Always referenced within the <head> inside html 5
-*** Uses the <link> ant two attributes, rel and href
+* A separete CSS local file with a .css file extension
+* Always referenced within the <head> inside html 5
+* Uses the <link> ant two attributes, rel and href
 
 '''css
 
