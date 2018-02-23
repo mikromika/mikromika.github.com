@@ -1,3 +1,7 @@
+#Bugs
+1) fixing css post, how show code block inside markdown ?
+
+
 #Todo
 1) CV section
 2) add Discus comment field for post
