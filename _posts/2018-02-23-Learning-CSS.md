@@ -13,8 +13,7 @@ Introduction to CSS <br>
 
 three ways to attach CSS inside HTML
 
-1.
-## External CSS
+1. External CSS
 <ul>    
           <li>
           A separete CSS local file with a .css file extension
