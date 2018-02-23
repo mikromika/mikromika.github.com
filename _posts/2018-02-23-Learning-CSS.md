@@ -10,6 +10,10 @@ category: Learning
 ---
 Introduction to CSS <br>
 
+[ http://gs.statcounter.com ]( http://gs.statcounter.com )  <br>
+[ http://caniuse.com/usage-table ]( http://caniuse.com/usage-table ) <br>
+[ https://goo.gl/gNmaVD ]( end of older IE Support ) <br>
+
 three ways to attach CSS inside HTML 5
 
 1. External CSS
