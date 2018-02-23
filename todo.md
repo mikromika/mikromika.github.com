@@ -1,5 +1,8 @@
 ---
-
+tag: [todo]
+twitter: mikromike
+published: true
+author: mikromike
 ---
 #Todo
 1) CV section
