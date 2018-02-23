@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Getting started with Travis Cl
+tag: [Learning, Travis, Getting started]
 date: 2018-02-16
 ---
 

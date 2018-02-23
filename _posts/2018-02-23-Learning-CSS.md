@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CSS
+title: CSS - content do not show correctly yet.
 date: 2018-02-23
 tag: [Learning, Css, Getting started]
 twitter: mikromike
@@ -13,7 +13,7 @@ Introduction to CSS
 three ways to attach CSS inside HTML
 
 ## External CSS
-<ul>   {% raw %} 
+<ul>   {% raw %}
           <li>
           A separete CSS local file with a .css file extension
           </li>
@@ -36,7 +36,7 @@ three ways to attach CSS inside HTML
       </li>
           Inline CSS is addesd using style attribute
         <li>
-    {% raw %}      <p style="color: blue;"> This text is blue.</p>  {% endraw %}
+  '''   <p style="color: blue;"> This text is blue.</p>  '''
         </li>
         <li>
         </li>
@@ -52,14 +52,14 @@ three ways to attach CSS inside HTML
         <p> Internal CSS will overwrites external CSS, only if it's added after
         the external stylesheet. </p>
       </li>
-  {% raw %}     <head>
+  '''     <head>
         <link rel="stylesheet" href="external.css">
           <style>
             p {
               color: blue;
               )
           </style>
-      </head>     {% endraw %}
+      </head>    '''
 </ul>
 
 
