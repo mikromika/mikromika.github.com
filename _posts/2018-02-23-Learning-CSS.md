@@ -24,12 +24,16 @@ three ways to attach CSS inside HTML
           Uses the <link> ant two attributes, rel and href
           </li>
 
-        '''html        
+        '''
+
               <link rel="stylesheet" href="stylesheet.css">
+
         '''
          HTML 5 style
-        '''html     
+        '''
+
             <link rel="stylesheet" type="text/css" href="stylesheet.css">
+
         '''
           XHTML style  
 </ul>
@@ -41,8 +45,10 @@ three ways to attach CSS inside HTML
       </li>
           Inline CSS is addesd using style attribute
         <li>
-  '''html
+  '''
+
      <p style="color: blue;"> This text is blue.</p>
+     
       '''
         </li>
         <li>
@@ -77,7 +83,7 @@ three ways to attach CSS inside HTML
 
 <ul>
 <li>  [ https://travis-ci.org/ ]( https://travis-ci.org/ ) </li>
- 
+
 <!-- <li> [  ](  ) </li>
 <li> [  ](  ) </li>
 <li> [  ](  ) </li>
