@@ -5,3 +5,4 @@
 4) add RSS feed
 5) update main page layout
 6) add feed from Blog/ to twitter
+7) add sitemap
