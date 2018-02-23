@@ -1,6 +1,6 @@
 #Bugs
 1) fixing css post, how show code block inside markdown ?
-STILL FIXING .... and fighting ....
+STILL FIXING ....  
 
 
 #Todo
