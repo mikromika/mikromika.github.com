@@ -31,7 +31,7 @@ three ways to attach CSS inside HTML 5
           XHTML style  
 </ul>
 
-2.
+1.
 ## Inline CSS
 <ul>  
       <li>
@@ -50,7 +50,7 @@ three ways to attach CSS inside HTML 5
 
 </ul>
 
-3.
+1.
 ## Internal CSS
 <ul>
       <li>  
