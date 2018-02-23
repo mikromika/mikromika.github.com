@@ -61,7 +61,7 @@ three ways to attach CSS inside HTML
 </ul>
 
 
-
+<center>
 
 https://www.linkedin.com/learning/introduction-to-css/welcome?autoplay=true
 <ul>
@@ -86,5 +86,6 @@ https://www.linkedin.com/learning/introduction-to-css/welcome?autoplay=true
 <li> [  ]{  } </li>
 <li> [  ]{  } </li>
 </ul>
+</center>
 <!--more-->
 This text is after more line
