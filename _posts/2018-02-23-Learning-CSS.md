@@ -8,7 +8,8 @@ published: true
 author: mikromike
 category: Learning
 ---
-Introduction to CSS
+Introduction to CSS <br>
+[ https://travis-ci.org/ ]( https://travis-ci.org/ )
 
 three ways to attach CSS inside HTML
 
@@ -81,10 +82,10 @@ three ways to attach CSS inside HTML
 <center> <h2> Reference link list </h2>
 
 
-<ul>
+<!--<ul>
 <li>  [ https://travis-ci.org/ ]( https://travis-ci.org/ ) </li>
 
-<!-- <li> [  ](  ) </li>
+ <li> [  ](  ) </li>
 <li> [  ](  ) </li>
 <li> [  ](  ) </li>
 <li> [  ](  ) </li>
@@ -93,8 +94,8 @@ three ways to attach CSS inside HTML
 <li> [  ](  ) </li>
 <li> [  ](  ) </li>
 <li> [  ](  ) </li>
-<li> [  ](  ) </li> -->
-</ul>
+<li> [  ](  ) </li>
+</ul>-->
 </center>
 <!--more-->
 This text is after more line
