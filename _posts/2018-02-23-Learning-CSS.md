@@ -62,10 +62,11 @@ three ways to attach CSS inside HTML
 
 
 <center> <h2> Reference link list </h2>
+[ https://travis-ci.org/ ]( https://travis-ci.org/ )
 
 https://www.linkedin.com/learning/introduction-to-css/welcome?autoplay=true
 <ul>
-<li> [ https://www-w3-org ] { https://www-w3-org } </li>
+<li> [ https://www-w3-org ] ( https://www-w3-org ) </li>
 <li> [ https://goo.gl/agQNc4 ]{ https://goo.gl/agQNc4  HTML5  } </li>
 <li> [ https://goo.gl/18Dnwj ]{ https://goo.gl/18Dnwj Canvas API HTML5 } </li>
 <li> [ https://goo.gl/Ny6k2f ]{ https://goo.gl/18Dnwj HTML5 Doctor } </li>
