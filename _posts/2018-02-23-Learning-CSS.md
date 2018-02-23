@@ -13,7 +13,7 @@ Introduction to CSS
 three ways to attach CSS inside HTML
 
 ## External CSS
-<ul>   {% raw %}
+<ul>    
           <li>
           A separete CSS local file with a .css file extension
           </li>
@@ -24,9 +24,8 @@ three ways to attach CSS inside HTML
           Uses the <link> ant two attributes, rel and href
           </li>
 
-                <link rel="stylesheet" href="stylesheet.css"> HTML 5 style
-              <link rel="stylesheet" type="text/css" href="stylesheet.css"> XHTML style  
- {% endraw %}
+        '''        <link rel="stylesheet" href="stylesheet.css">''' HTML 5 style
+        '''      <link rel="stylesheet" type="text/css" href="stylesheet.css"> ''' XHTML style  
 </ul>
 
 ## Inline CSS
