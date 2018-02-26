@@ -7,7 +7,7 @@ title: Home
 
 
 {% for post in site.categories.cv %}
- <li style="margin-left:14px margin-top:10px" >   <span>{{ post.date | date_to_string }}</span>
+ <li style="margin-left:14px margin-top:16px" >   <span>{{ post.date | date_to_string }}</span>
               &nbsp; <a href="{{ post.url }}"> {{ post.title }}</a>
  </li>
 {% endfor %}
