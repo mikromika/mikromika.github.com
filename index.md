@@ -3,8 +3,6 @@ layout: home
 title: Home
 ---
 
-<div style="margin-left:1px">
-![useful image]({{ site.baseurl }}/images/mm4.png)
 
     <h3 class="w3-text-black">
     <center>Mikromike's Page Header from index MD-file </center></h3>
