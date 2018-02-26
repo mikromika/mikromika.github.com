@@ -2,7 +2,7 @@
 layout: post
 title: Microsoft Won't Patch a Severe Skype Vulnerability.
 date: 2018-02-26
-tag: [security, skype]
+tag: [security, skype, telegram]
 twitter: mikromike
 published: true
 author: mikromike
@@ -14,7 +14,7 @@ Microsoft Won't Patch a Severe Skype Vulnerability Anytime Soon <br>
 <hr> <br>
 <p>Again, this is good example, how Microsoft is not interested patch
 non-profitable product. Microsoft is pushing cloud Azure based Skype for business.</p>
-<p> Other option is replace Skype to
-[ Telegram ]( https://telegram.org/ )   </p>
+<p> Other option is replace Skype to  </p>
+[ Telegram ]( https://telegram.org/ )  
 You do not need it install it, you can use it via browser <br>
 [ web telegram ](https://web.telegram.org/#/login)
