@@ -2,7 +2,7 @@
 layout: home
 title: Home
 ---
-<div style="margin-left:3px">
+<div style="margin-left:10px margin-top:10px">
   <div class="w3-container w3-blue">
 
 
