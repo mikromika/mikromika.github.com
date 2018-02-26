@@ -2,7 +2,7 @@
 layout: post
 title: External Blog in Finnish
 date: 2016-02-20
-tag: [cv, External Blog]
+tag: [External Blog]
 twitter: mikromike
 published: true
 author: mikromike
