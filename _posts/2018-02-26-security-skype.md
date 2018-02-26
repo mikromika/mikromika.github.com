@@ -9,5 +9,6 @@ author: mikromike
 category: Learning
 ---
 Microsoft Won't Patch a Severe Skype Vulnerability Anytime Soon <br>
-[ https://thehackernews.com/2018/02/hacking-skype.html ]( security: hacking-skype )
+[ security: hacking-skype ](https://thehackernews.com/2018/02/hacking-skype.html )
+
 <br>  — by @TheHackersNews
