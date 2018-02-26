@@ -13,7 +13,7 @@ title: Home
           <a href="{{ post.url }}"> <h2>{{ post.title }}</h2> </a>
           <p>{{ post.date | date_to_string }}</p>
 Post has Tagged:
-        {% for tag in post.tags %}
+        {% for tag in post.tags.cv %}
           <span class="label label-primary"> {{ tag }}</span>
         {% endfor %}
    {% endfor %}
