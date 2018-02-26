@@ -3,22 +3,19 @@ layout: home
 title: Home
 ---
 <div style="margin-left:1px">
-  <div class="w3-container w3-white">
+  <div class="w3-container w3-blue">
     <h3 class="w3-text-black"><center>Mikromike's Page Header from index MD-file </center></h3>
     <hr><br>
 
-<div class="post">
 
-  {% for post in post.tags.cv %}
-          <a href="{{ post.url }}"> <h2>{{ post.title }}</h2> </a>
-          <p>{{ post.date | date_to_string }}</p>
-Post has Tagged:
-        {% for tag in post.tags %}
-          <span class="label label-primary"> {{ tag }}</span>
-        {% endfor %}
-   {% endfor %}
 
-</div>
+{% for post in site.categories.cv %}
+ <li>   <span>{{ post.date | date_to_string }}</span>
+              &nbsp; <a href="{{ post.url }}"> {{ post.title }}</a>
+ </li>
+{% endfor %}
+
+
 
     <center> End of index-md </center>
 <hr>
