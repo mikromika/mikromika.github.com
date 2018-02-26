@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div style="margin-left:1px">
-
+![useful image]({{ site.url }}/images/mm4.png)
 
     <h3 class="w3-text-black">
     <center>Mikromike's Page Header from index MD-file </center></h3>
@@ -16,7 +16,7 @@ title: Home
 
 <div class="post">
 
-      {% for post in site.posts %}
+    {% for post in site.posts %}
           <a href="{{ post.url }}"> <h2>{{ post.title }}</h2> </a>
           <p>{{ post.date | date_to_string }}</p>
 Post has Tagged:
