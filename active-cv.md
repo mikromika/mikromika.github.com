@@ -9,7 +9,7 @@ title: Home
 
 <div class="post">
 
-  {% for post in site.tags.cv %}
+  {% for post in site.categories.cv %}
           <a href="{{ post.url }}"> <h2>{{ post.title }}</h2> </a>
           <p>{{ post.date | date_to_string }}</p>
 Post has Tagged:
