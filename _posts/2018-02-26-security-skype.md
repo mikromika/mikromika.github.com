@@ -16,3 +16,5 @@ Microsoft Won't Patch a Severe Skype Vulnerability Anytime Soon <br>
 non-profitable product. Microsoft is pushing cloud Azure based Skype for business.</p>
 <p> Other option is replace Skype to
 [ Telegram ]( https://telegram.org/ )   </p>
+You do not need it install it, you can use it via browser <br>
+[ web telegram ](https://web.telegram.org/#/login)
