@@ -3,6 +3,7 @@ tag: [todo]
 twitter: mikromike
 published: true
 author: mikromike
+category: todo
 ---
 #Todo
 1) CV section
