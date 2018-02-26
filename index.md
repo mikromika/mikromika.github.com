@@ -7,7 +7,7 @@ title: Home
   <div class="w3-container w3-white">
   <ul>
   <li  markdown="1">
-  ![Logo Jekyll]({{site.url}}/_images/mm4.png )
+  - ![Logo Jekyll]({{site.url}}/_images/mm4.png )
   </li>
   </ul>
 
