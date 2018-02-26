@@ -4,12 +4,7 @@ title: Home
 ---
 
 <div style="margin-left:1px">
-  <div class="w3-container w3-white">
-  <ul>
-  <li  markdown="1">
-  - ![Logo Jekyll]({{site.url}}/_images/mm4.png )
-  </li>
-  </ul>
+
 
     <h3 class="w3-text-black">
     <center>Mikromike's Page Header from index MD-file </center></h3>
