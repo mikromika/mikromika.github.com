@@ -9,10 +9,6 @@ title: Home
               &nbsp; <a href="{{ post.url }}"> {{ post.title }}</a>
  </li>
 {% endfor %}
-
-
-
     <center> End of index-md </center>
 <hr>
-
 </div>
