@@ -14,7 +14,7 @@ Microsoft Won't Patch a Severe Skype Vulnerability Anytime Soon <br>
 <hr> <br>
 <p>Again, this is good example, how Microsoft is not interested patch
 non-profitable product. Microsoft is pushing cloud Azure based Skype for business.</p>
-<p> Other option is replace Skype to  </p><br>
+<p> Other option is replace Skype to  </p>
 [ Telegram ]( https://telegram.org/ ) <br>
 <p> You do not need it install it, you can use it via browser </p><br>
 [ web telegram ](https://web.telegram.org/#/login)
