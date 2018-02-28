@@ -10,8 +10,8 @@ category: Learning
 ---
 Introduction to CSS <br>
 <div class="home-grid">
-  <div>One <hr></div>
-
+  <div>One  </div>
+  <hr>
   <div>Two</div>
   <hr>
   <div>Three</div>
