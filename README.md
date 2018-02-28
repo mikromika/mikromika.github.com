@@ -3,7 +3,10 @@
 STILL FIXING ....  STILL FIXING ....  
 --- is CSS-Grid solution ? --- Will see !
 
+Building CSS Grid.....
+
 #Todo
+
 1) CV section
 2) add Discus comment field for post
 3) add MailChimp emails collector for testing it
