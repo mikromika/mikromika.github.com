@@ -24,7 +24,9 @@ Introduction to CSS <br>
 
 
 <!--more-->
-Reference links
+<hr>
+Reference links <br>
+
 [ http://gs.statcounter.com ]( http://gs.statcounter.com )  <br>
 [ http://caniuse.com/usage-table ]( http://caniuse.com/usage-table ) <br>
 [ https://goo.gl/gNmaVD ]( end of older IE Support ) <br>
