@@ -20,7 +20,12 @@
   padding: 20px 0;
   font-size: 20px;
 }
+.text-left
+{
+   text-align: left;
+
+}
 .item2 {
   padding: 0px;
-
+  width: 200px;
 }
