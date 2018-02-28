@@ -34,8 +34,8 @@
 }
 .center-image
 {
-    margin: 0 auto;
+    margin: 0;
     display: block;
-    height: 200px;
+    height: 150px;
     width: 200px;
 }
