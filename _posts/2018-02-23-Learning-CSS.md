@@ -8,7 +8,8 @@ published: true
 author: mikromike
 category: Learning
 ---
-<center> Introduction to CSS </center><br>
+<br>
+<center> Introduction to CSS </center>
 
 1) Note <br>
 I do not know why, Markdown and Jekyll can not
