@@ -9,9 +9,9 @@ author: mikromike
 category: Learning
 ---
 Introduction to CSS <br>
-1) Note
-I do not know why, Markdown adn Jekyll can not
-find CSS file from '''_layout/css  '''
+1) Note <br>
+I do not know why, Markdown and Jekyll can not
+find CSS file from **_layout/css **
 <!--more-->
 <hr>
 Reference links <br>
