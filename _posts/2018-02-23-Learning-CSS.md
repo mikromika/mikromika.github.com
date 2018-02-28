@@ -1,8 +1,8 @@
 ---
 layout: grid
-title: CSS - content do not show correctly yet, gointo fix it by CSS-grid.
+title: CSS - by CSS-grid.
 date: 2018-02-23
-tag: [Learning, Css, Getting started]
+tag: [Learning, Css, css-grid, Getting started]
 twitter: mikromike
 published: true
 author: mikromike
