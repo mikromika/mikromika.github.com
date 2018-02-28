@@ -19,7 +19,7 @@ Introduction to CSS <br>
   <div>Four</div>
   <hr>
   <div>Five</div>
-  <hr>
+
 </div>
 
 
