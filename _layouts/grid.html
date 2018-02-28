@@ -2,30 +2,7 @@
 <html>
 <head>
 <link rel="stylesheet" href="/layout/css/css-grid.css">
-<style>
-.item1 { grid-area: header; }
-.item2 { grid-area: menu; }
-.item3 { grid-area: main; }
-.item4 { grid-area: right; }
-.item5 { grid-area: footer; }
 
-.grid-container {
-  display: grid;
-  grid-template-areas:
-    'menu header header header header header'
-    'menu main main main right right'
-    'menu main main footer footer footer';
-  grid-gap: 10px;
-  background-color: #2194F3;
-  padding: 10px;
-}
-.grid-container > div {
-  background-color: rgba(255, 255, 255, 0.8);
-  text-align: center;
-  padding: 20px 0;
-  font-size: 30px;
-}
-</style>
 </head>
 <body>
 
@@ -33,7 +10,7 @@
   <div class="item1"><h1>Grid Layout</h1>
     <p>This grid layout contains six columns and three rows:</p>
   </div>
-  <div class="meny">Menu</div>
+  <div class="menu">Menu</div>
   <div class="main">{{ content }}</div>
   <div class="item4">Right</div>
   <div class="item5">Booter</div>
