@@ -11,10 +11,15 @@ category: Learning
 Introduction to CSS <br>
 <div class="home-grid">
   <div>One</div>
+  <hr>
   <div>Two</div>
+  <hr>
   <div>Three</div>
+  <hr>
   <div>Four</div>
+  <hr>
   <div>Five</div>
+  <hr>
 </div>
 
 
