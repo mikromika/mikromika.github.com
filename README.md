@@ -1,6 +1,8 @@
 #Bugs
 1) fixing css post, how show code block inside markdown ?
 STILL FIXING ....  STILL FIXING ....  
+--- is CSS-Grid solution ? --- Will see !
+
 #Todo
 1) CV section
 2) add Discus comment field for post

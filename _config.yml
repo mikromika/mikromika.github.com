@@ -30,7 +30,7 @@ paginate:         5
 paginate_path:       "/page:num/"
 
 # Custom vars
-version:          0.2.26.2k18
+version:          0.2.28.2k18
 timezone: Europe/Helsinki # add your own locale timezon
 
 github:
