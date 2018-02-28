@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
+<html lang="{{ site.lang | default: "en-US" }}">
 <link rel="stylesheet" href="/css/css-grid.css">
+<link rel="stylesheet" href="/css/lmain-menu.css">
 </head>
 <body>
   <div class="grid-container">
     <div class="item1">Header</div>
-    <div class="item2">Menu</div>
+    <div class="item2">
+      {% include navb.html %}
+    </div>
     <div class="item3">{{ content }}</div>
     <div class="item4">Right</div>
     <div class="item5">Footer</div>
