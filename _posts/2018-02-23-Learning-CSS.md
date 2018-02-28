@@ -9,14 +9,6 @@ author: mikromike
 category: Learning
 ---
 Introduction to CSS <br>
-<div class="home-grid">
-<div class="item1">I am Header</div>
-<div class="item2">Menu</div>
-<div class="item3">Main</div>  
-<div class="item4">Right</div>
-<div class="item5">Footer</div>
-</div>
-
 
 <!--more-->
 <hr>
