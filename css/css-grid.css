@@ -17,7 +17,6 @@
 }
 .grid-container > div {
   background-color: rgba(255, 255, 255, 0.8);
-  text-align: center;
   padding: 0px 0;
   font-size: 20px;
 }
@@ -26,6 +25,11 @@
    text-align: left;
 
 }
+.text-center {
+
+  text-align: center;
+}
+
 .item2 {
   padding-bottom: 0px;
   padding-top: 0px;
