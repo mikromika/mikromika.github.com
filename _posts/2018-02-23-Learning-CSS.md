@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: grid
 title: CSS - content do not show correctly yet, gointo fix it by CSS-grid.
 date: 2018-02-23
 tag: [Learning, Css, Getting started]
