@@ -32,3 +32,8 @@
   width: 200px;
   height: auto;
 }
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
