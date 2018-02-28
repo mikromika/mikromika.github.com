@@ -10,16 +10,11 @@ category: Learning
 ---
 Introduction to CSS <br>
 <div class="home-grid">
-  <div>One  </div>
-  <hr>
-  <div>Two</div>
-  <hr>
-  <div>Three</div>
-  <hr>
-  <div>Four</div>
-  <hr>
-  <div>Five</div>
-
+<div class="item1">Header</div>
+<div class="item2">Menu</div>
+<div class="item3">Main</div>  
+<div class="item4">Right</div>
+<div class="item5">Footer</div>
 </div>
 
 
