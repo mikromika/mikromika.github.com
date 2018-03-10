@@ -2,7 +2,7 @@
 layout: home
 title: Home
 ---
-![test](images/github.ico)
+<div> ![test](images/github.ico) </div>
 <div style="margin-left:1px">
     <h3 class="w3-text-black">
     <center>Mikromike's Page Header from index MD-file </center></h3>
