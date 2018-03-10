@@ -4,6 +4,7 @@ title: Home
 ---
 
 <div style="margin-left:1px">
+![ huhuu ] ( link )
 
     <h3 class="w3-text-black">
     <center>Mikromike's Page Header from index MD-file </center></h3>
