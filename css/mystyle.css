@@ -1,6 +1,8 @@
 .menu-container{margin-top:1px  }
 .menu-container{padding:0.01em 16px}
 .menu-container:after,.menu-container:before{content:"";display:block;clear:both}
+
+.text-black{color:#000!important}
 .image-overwrite {
    margin-left:1px !important;
 }
