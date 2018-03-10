@@ -4,8 +4,7 @@ title: Home
 ---
 
 <div style="margin-left:1px">
-![ huhuu ] ( link )
-
+<p class="image.overwite"> ![ huuhuu ] ( images/mm4.jpg ) </p>
     <h3 class="w3-text-black">
     <center>Mikromike's Page Header from index MD-file </center></h3>
     <div>
