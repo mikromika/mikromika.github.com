@@ -6,3 +6,8 @@
 .image-overwrite {
    margin-left:1px !important;
 }
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
