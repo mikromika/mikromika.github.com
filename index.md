@@ -4,7 +4,7 @@ title: Home
 ---
 ![test](images/github.ico)
 <div style="margin-left:1px">
-<p style="margin-left:1px"> ![test](images/github.ico) </p>
+<p style="margin-left:1px"> ![test](images/github.ico | relative_url) </p>
     <h3 class="w3-text-black">
     <center>Mikromike's Page Header from index MD-file </center></h3>
     <div>
