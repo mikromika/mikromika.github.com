@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div style="margin-left:1px">
-<p class="image.overwrite"> ![huuhuu](images/mm4.jpg?raw=true) </p>
+<p class="image.overwrite"> ![huuhuu](images/mm4.jpg?raw=true "image is here") </p>
     <h3 class="w3-text-black">
     <center>Mikromike's Page Header from index MD-file </center></h3>
     <div>
