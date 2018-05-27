@@ -5,9 +5,11 @@ title: Active CV
 <center> <h2> <strong> {{ page.title | capitalize }} </strong> </h2> </center>
 <hr>
   <div class="w3-container w3-blue">
+  <h2>
 {% for post in site.categories.cv %}
- <li><h2>  <span>{{ post.date | date_to_string }}</span>  
+ <li>  <span>{{ post.date | date_to_string }}</span>  
               &nbsp; <a href="{{ post.url }}"> {{ post.title }}</a>
-  </h2></li>
+  </li>
 {% endfor %}
+</h2>
 </div>
