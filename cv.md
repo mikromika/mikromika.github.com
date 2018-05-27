@@ -8,6 +8,6 @@ title: Active CV
 {% for post in site.categories.cv %}
  <li><h2>  <span>{{ post.date | date_to_string }}</span>  
               &nbsp; <a href="{{ post.url }}"> {{ post.title }}</a>
- </li> </h2>
+  </h2></li>
 {% endfor %}
 </div>
