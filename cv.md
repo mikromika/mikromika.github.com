@@ -10,5 +10,4 @@ title: Active CV
               &nbsp; <a href="{{ post.url }}"> {{ post.title }}</a>
  </li>
 {% endfor %}
-<hr>
 </div>
