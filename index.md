@@ -14,7 +14,9 @@ Post has Tagged:
    {% endfor %}
 
 </div>
-    <center> https://fi.linkedin.com/in/mikromike </center>
+<br>
+<hr>
+    <center> <a href="https://fi.linkedin.com/in/mikromike"> Mikromike linkedin </a> </center>
     <center> End of index-md file </center>
 <hr>
 
