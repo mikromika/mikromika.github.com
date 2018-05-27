@@ -16,8 +16,11 @@ Post has Tagged:
 </div>
 <br>
 <hr>
-    <center> <a href="https://fi.linkedin.com/in/mikromike"> Mikromike linkedin </a> </center>
-    <center> End of index-md file </center>
+<br>
+    <center>
+     <a href="https://fi.linkedin.com/in/mikromike"> Mikromike linkedin </a>
+                                                                        </center>
+
 <hr>
 
 </div>
