@@ -2,7 +2,7 @@
 layout: home
 title: Active CV
 ---
-<center> <h2> <strong> {{ page.title | capitalize }} </strong> </h2> </center>
+<center> <h3> <strong> {{ page.title | capitalize }} </strong> </h2> </center>
 <hr>
   <div class="w3-container w3-blue">
   <h2>
@@ -11,5 +11,5 @@ title: Active CV
               &nbsp; <a href="{{ post.url }}"> {{ post.title }}</a>
   </li>
 {% endfor %}
-</h2>
+</h3>
 </div>
