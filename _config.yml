@@ -51,16 +51,6 @@ twitter:
   profile_link_text:   Follow :username
   profile_link_title:  Follow :username on Twitter  # Profile link title text
 
-
-
-
-defaults:
-  - scope:
-      path: "data/static"
-    values:
-      image: true
-
-
   # Use the following plug-ins
 gems:
  # Create a sitemap using the official Jekyll sitemap gem   - jekyll-sitemap
