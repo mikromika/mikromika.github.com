@@ -14,7 +14,7 @@ author:
   url:            https://mikromika.github.io
 
 permalink: /post/:year/:month/:day/:title/
-permalink: /images
+ 
 excerpt_separator: <!--more-->
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
