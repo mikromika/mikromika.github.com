@@ -6,8 +6,8 @@ title: Active CV
 <hr>
   <div class="w3-container w3-blue">
 {% for post in site.categories.cv %}
- <li><h2>  <span>{{ post.date | date_to_string }}</span> </h2>
+ <li><h2>  <span>{{ post.date | date_to_string }}</span>  
               &nbsp; <a href="{{ post.url }}"> {{ post.title }}</a>
- </li>
+ </li> </h2>
 {% endfor %}
 </div>
