@@ -1,1 +1,12 @@
 style="margin-left:180px;margin-top:50px;padding:1px 16px;height:5px;"
+
+
+<div class="menu-container">
+      <ul>
+       <li><a class="active" href="https://mikromika.github.io/">Home</a> </li>
+       <li><a href="/cv">Active CV </a></li>
+       <li><a href="/hobby">Active Projects</a></li>
+      <br><hr>
+     <li>  <span> Currently page version: v{{ site.version }}</span><li>
+ </ul>
+</div>
