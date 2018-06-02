@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Active CV
+meta: Active CV, Mikromike's CV
 ---
 <center> <h2> <strong> {{ page.title | capitalize }} </strong> </h2> </center>
 <br>
